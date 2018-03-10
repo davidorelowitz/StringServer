@@ -4,7 +4,7 @@
 
   <groupId>com.david</groupId>
   <artifactId>StringServer</artifactId>
-  <version>3.0</version>
+  <version>4.0</version>
   <packaging>jar</packaging>
 
   <name>SecondMaven</name>
@@ -22,6 +22,7 @@
         </configuration>
       </plugin>
     </plugins>
+
   </build>
 
   <dependencies>
