@@ -21,6 +21,6 @@ class StringServer {
     }
 
     public String toRemoveSpaces(String str){
-        return(str.replaceAll("\\s+",""));
+        return(str.replaceAll(" ",""));
     }
 }
